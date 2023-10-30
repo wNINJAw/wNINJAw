@@ -1,4 +1,4 @@
-j## Bem-vindo(a) ao perfil do wNINJAw 😁
+## Bem-vindo(a) ao perfil do wNINJAw 😁
 
  <div>
    <a href="https://github.com/wNINJAw">
